@@ -1,0 +1,11 @@
+C:\Users\76\Desktop\lab1\bin\Debug\lab1.exe.config
+C:\Users\76\Desktop\lab1\bin\Debug\lab1.exe
+C:\Users\76\Desktop\lab1\bin\Debug\lab1.pdb
+C:\Users\76\Desktop\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\76\Desktop\lab1\lab1\obj\Debug\lab1.ClientForm.resources
+C:\Users\76\Desktop\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\76\Desktop\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\76\Desktop\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\76\Desktop\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\76\Desktop\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\76\Desktop\lab1\lab1\obj\Debug\lab1.csproj.CopyComplete
