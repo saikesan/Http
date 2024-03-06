@@ -1,0 +1,10 @@
+D:\VS_Projects\HttpCs\Http\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\VS_Projects\HttpCs\Http\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\VS_Projects\HttpCs\Http\Server\bin\Debug\Server.exe.config
+D:\VS_Projects\HttpCs\Http\Server\bin\Debug\Server.exe
+D:\VS_Projects\HttpCs\Http\Server\bin\Debug\Server.pdb
+D:\VS_Projects\HttpCs\Http\Server\obj\Debug\Server.exe
+D:\VS_Projects\HttpCs\Http\Server\obj\Debug\Server.pdb
+D:\VS_Projects\HttpCs\Http\Server\bin\Debug\Newtonsoft.Json.dll
+D:\VS_Projects\HttpCs\Http\Server\bin\Debug\Newtonsoft.Json.xml
+D:\VS_Projects\HttpCs\Http\Server\obj\Debug\Server.csproj.CopyComplete
